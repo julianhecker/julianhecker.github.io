@@ -7,24 +7,24 @@ My research interests are statistical genetics and corresponding applications to
 
 RITSS (Robust Interaction Testing using Sample Splitting) is an R package for flexible and robust interaction testing for quantitative traits.
 
-https://github.com/julianhecker/RITSS
+[https://github.com/julianhecker/RITSS](https://github.com/julianhecker/RITSS)
 
 ### FBAT
 
 Please check the FBAT website:
 
-https://sites.google.com/view/fbatwebpage
+[https://sites.google.com/view/fbatwebpage](https://sites.google.com/view/fbatwebpage)
 
 Furthermore, rare variant simulations in a family-based context are available here:
 
-https://github.com/julianhecker/FBAT_rare_variant_test_simulations
+[https://github.com/julianhecker/FBAT_rare_variant_test_simulations](https://github.com/julianhecker/FBAT_rare_variant_test_simulations)
 
 ### QUICK-STOP
 
 Example code for the implementation of QUICK-STOP is available here:
 
-https://github.com/julianhecker/QUICK-STOP
+[https://github.com/julianhecker/QUICK-STOP](https://github.com/julianhecker/QUICK-STOP)
 
 ### PolyGEE
 
-https://github.com/julianhecker/PolyGEE
+[https://github.com/julianhecker/PolyGEE](https://github.com/julianhecker/PolyGEE)
