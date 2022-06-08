@@ -22,7 +22,7 @@ Furthermore, rare variant simulations in a family-based context are available he
 
 FBAT code is available here:
 
-[https://github.com/FBATsw/FBAT] (https://github.com/FBATsw/FBAT)
+[https://github.com/FBATsw/FBAT](https://github.com/FBATsw/FBAT)
 
 ### QUICK-STOP
 
